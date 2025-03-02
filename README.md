@@ -16,7 +16,7 @@ I’ll keep adding more projects on topics like **EDA, Machine Learning, and Dat
 
 ## 🤝 Connect with Me  
 
-[My LinkedIn Profile](https://www.linkedin.com/in/nikhil-verma-14b60a349?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvcjA2N3MSMWjxVNnQXrkSA%3D%3D)
+[LinkedIn Profile](https://www.linkedin.com/in/nikhil-verma-14b60a349?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvcjA2N3MSMWjxVNnQXrkSA%3D%3D)
 
 [X Profile](https://x.com/Nikhil_Verma__)
 
