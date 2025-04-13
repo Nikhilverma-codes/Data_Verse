@@ -11,6 +11,14 @@ Welcome to **data_verse**! This repository is a collection of my **data science 
 
 🔗 **Project Folder:** [`California_Housing_Project/`](https://github.com/Nikhilverma-codes/Data_Verse/tree/main/California_Housing_Project) 
 
+### 2️⃣ Salary Prediction Project 💼  
+**Description:**  
+- Built a **Linear Regression** model using **scikit-learn** to predict salaries.  
+- Dataset includes features like **experience, education, age, gender, and job title**.  
+- Explored multivariable regression and evaluated model performance.  
+
+🔗 **Project Folder:** [`Salary_Prediction_Project/`](https://github.com/Nikhilverma-codes/Data_Verse/tree/main/Salary_Prediction_Project)
+
 ### 📂 Future Projects  
 I’ll keep adding more projects on topics like **EDA, Machine Learning, and Data Visualization**! Stay tuned. 🚀  
 
