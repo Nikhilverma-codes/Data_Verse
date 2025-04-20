@@ -19,3 +19,20 @@ This project uses **Logistic Regression** to predict whether a client will subsc
 
 ## 🛠️ Tools & Libraries
 - Python, pandas, scikit-learn, matplotlib, seaborn
+
+## 📁 Files
+
+- `bank.csv`: Dataset used for training and evaluation  
+- `bank_classifier.py` or `notebook.ipynb`: Main code and model implementation  
+- `README.md`: Project overview and documentation
+
+## 📌 Future Improvements
+
+- Experiment with other classifiers like **Random Forest**, **XGBoost**, etc.  
+- Perform **hyperparameter tuning** to optimize model performance  
+- Apply **feature selection** and **regularization** for better generalization
+
+
+### 🙏 Acknowledgements
+
+Thanks to the UCI Machine Learning Repository for the dataset and the open-source community for the amazing tools that made this project possible.
