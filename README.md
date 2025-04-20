@@ -26,7 +26,7 @@ Welcome to **data_verse**! This repository is a collection of my **data science 
 - Preprocessed the data, handled **class imbalance** using upsampling, and evaluated with metrics like accuracy, precision, recall, and F1-score.
 - **Key Insight**: Balanced models perform better in identifying both subscribing and non-subscribing clients.
 
-🔗 **Project Folder**: [Bank_Subscription_Classifier/](Bank_Subscription_Classifier/)
+🔗 **Project Folder**: [`Bank_subscription_classifier_project/`](https://github.com/Nikhilverma-codes/Data_Verse/tree/main/Bank_subscription_predictor_project)
 
 ### 📂 Future Projects  
 I’ll keep adding more projects on topics like **EDA, Machine Learning, and Data Visualization**! Stay tuned. 🚀  
