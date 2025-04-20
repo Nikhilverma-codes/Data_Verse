@@ -22,8 +22,8 @@ This project uses **Logistic Regression** to predict whether a client will subsc
 
 ## 📁 Files
 
-- `bank.csv`: Dataset used for training and evaluation  
-- `bank_classifier.py` or `notebook.ipynb`: Main code and model implementation  
+- [`bank.csv`](https://github.com/Nikhilverma-codes/Data_Verse/blob/main/Bank_subscription_predictor_project/bank.csv): Dataset used for training and evaluation  
+- [`Bank_subscription_classifier.ipynb`](https://github.com/Nikhilverma-codes/Data_Verse/blob/main/Bank_subscription_predictor_project/Bank_subscription_classifier_project.ipynb)  
 - `README.md`: Project overview and documentation
 
 ## 📌 Future Improvements
@@ -31,7 +31,6 @@ This project uses **Logistic Regression** to predict whether a client will subsc
 - Experiment with other classifiers like **Random Forest**, **XGBoost**, etc.  
 - Perform **hyperparameter tuning** to optimize model performance  
 - Apply **feature selection** and **regularization** for better generalization
-
 
 ### 🙏 Acknowledgements
 
