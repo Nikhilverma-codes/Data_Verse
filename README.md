@@ -33,8 +33,9 @@ Welcome to **data_verse**! This repository is a collection of my **data science 
 - Built models using **Decision Tree** and **XGBoost** classifiers.  
 - Performed EDA, feature scaling, and handled class labels effectively.  
 - Achieved **perfect accuracy** (only possible due to dataset bias or imbalance—subject to further review).  
-- **Key Insight:** Features like **max level**, **unique active days**, and **average play density** strongly indicate likelihood of churn.  
-🔗 **Project Folder:** [`Game_Player_Churn_Project/`](https://github.com/Nikhilverma-codes/Data_Verse/tree/main/Game_Player_Churn_Project)
+- **Key Insight:** Features like **max level**, **unique active days**, and **average play density** strongly indicate likelihood of churn.
+  
+🔗 **Project Folder:** [`Game_Player_Churn_Analysis/`](https://github.com/Nikhilverma-codes/Data_Verse/tree/main/Game_player_churn%20_analysis)
 
 ### 📂 Future Projects  
 I’ll keep adding more projects on topics like **EDA, Machine Learning, and Data Visualization**! Stay tuned. 🚀  
