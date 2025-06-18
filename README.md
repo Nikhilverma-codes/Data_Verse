@@ -21,12 +21,20 @@ Welcome to **data_verse**! This repository is a collection of my **data science 
 
 ### 3️⃣ Bank Subscription Classifier 🏦  
 **Description:**
-
 - Built a **Logistic Regression** model to predict whether a client will subscribe to a term deposit.
 - Preprocessed the data, handled **class imbalance** using upsampling, and evaluated with metrics like accuracy, precision, recall, and F1-score.
 - **Key Insight**: Balanced models perform better in identifying both subscribing and non-subscribing clients.
 
 🔗 **Project Folder**: [`Bank_subscription_classifier_project/`](https://github.com/Nikhilverma-codes/Data_Verse/tree/main/Bank_subscription_predictor_project)
+
+### 4️⃣ Game Player Churn Classifier 🎮🔥  
+**Description:**  
+- Predicted **player churn** based on behavioral data from an online game.  
+- Built models using **Decision Tree** and **XGBoost** classifiers.  
+- Performed EDA, feature scaling, and handled class labels effectively.  
+- Achieved **perfect accuracy** (only possible due to dataset bias or imbalance—subject to further review).  
+- **Key Insight:** Features like **max level**, **unique active days**, and **average play density** strongly indicate likelihood of churn.  
+🔗 **Project Folder:** [`Game_Player_Churn_Project/`](https://github.com/Nikhilverma-codes/Data_Verse/tree/main/Game_Player_Churn_Project)
 
 ### 📂 Future Projects  
 I’ll keep adding more projects on topics like **EDA, Machine Learning, and Data Visualization**! Stay tuned. 🚀  
